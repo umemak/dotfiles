@@ -1,0 +1,13 @@
+[core]
+  autocrlf = input
+  quotepath = false
+  pager =
+[user]
+  name = umemak
+  email = umematsu@gmail.com
+[alias]
+  co = checkout
+  ci = commit
+  st = status
+  di = diff
+  br = branch
